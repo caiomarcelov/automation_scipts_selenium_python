@@ -48,3 +48,7 @@ Neste cenário de testes, são inseridos 3 valores distintos para as dimensões 
 #### Cenário 3 - Reconhecimento de Triângulo Isósceles
 
 Neste cenário de testes, são inseridos 2 valores iguais e 1 valor distinto para as dimensões de um triângulo, que deve ser reconhecido por triângulo isósceles. Nesse cenário, foi também analisada a capacidade do programa de processar números com casas decimais em todos os campos de dados fornecidos.
+
+#### Cenário 4 - Triângulo Inválido
+
+Neste cenário de testes, caso um dos valores inseridos seja maior do que a soma dos dois outros valores, o programa exibirá uma mensagem de erro, acusando que o triângulo é inválido.
